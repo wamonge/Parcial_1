@@ -188,7 +188,7 @@ namespace Parcial_1
         }
         public void ImprimirTodo()
         {
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < 5; i++)
             {
                 if ("x" == codigos[i])
                 {
